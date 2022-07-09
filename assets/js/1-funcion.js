@@ -11,7 +11,7 @@ const suma = function(a, b, c){
 
 console.log(suma(1,2,3));
 
-
+//* Otro ejemplo 
 const suma2 = function(a, b, c){
     console.log(a+b+c)
 }
